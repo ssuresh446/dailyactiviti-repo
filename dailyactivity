@@ -1,0 +1,24 @@
+bought a pant and t-shirt in BF.
+CI/CD: https://www.youtube.com/watch?v=HjXTSbXG1k8 
+waterfall: developement takes 6month or 1year or more for giving entire software to client
+agile: rather than giving entire software , they give one service atleast in a week or 2,3 weeks
+devops:ci/cd concept, every developer code committed, build and tested.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/ssuresh446/dailyactiviti-repo.git
+git push -u origin master
