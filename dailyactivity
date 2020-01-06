@@ -3,7 +3,8 @@ CI/CD: https://www.youtube.com/watch?v=HjXTSbXG1k8
 waterfall: developement takes 6month or 1year or more for giving entire software to client
 agile: rather than giving entire software , they give one service atleast in a week or 2,3 weeks
 devops:ci/cd concept, every developer code committed, build and tested.
-
+continuous delivery: after ci, deploy into mock servers which contain the same env like end users env. (production env.)
+continuous deployment: this is actual deployment into production env. to the end users.
 
 
 
